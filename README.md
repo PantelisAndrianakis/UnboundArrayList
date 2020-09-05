@@ -14,3 +14,4 @@ I wanted a List implementation that...<br>
 -Return null elements instead of throwing IndexOutOfBoundsException using try.<br>
 -Index checking for methods that use indexes to modify data.<br>
 -Iterator that also returns null for nonexistent elements.<br>
+-Addition of synchronized addIfAbsent method.<br>
