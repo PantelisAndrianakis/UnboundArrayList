@@ -19,6 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+package unbound;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -49,7 +50,7 @@ public class Benchmark
 		long averageTime1 = -1;
 		long averageTime2 = -1;
 		
-		// Used to delay and foce JVM to enter the For loop.
+		// Used to delay and force JVM to enter the For loop.
 		@SuppressWarnings("unused")
 		double sum;
 		
